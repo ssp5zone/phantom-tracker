@@ -1,8 +1,8 @@
 # Phantom Tracker
 
-A PhantomJS based Website status tracker.
+An automated PhantomJS based website status tracker.
 
-The program that runs in background emulating a user and tests the functionality of a Website in real time. It takes screenshots of the said test cases and mails them.
+The program runs in background emulating a user and tests the functionality of a set of websites in real time. It takes screenshots of the said test cases and mails them.
 
 The program can be scheduled to run at regular intervals.
 
